@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bouhalla Abderrahim Mohamed but you can call mohamed and I'm a Fullstack Dev, 21 YO and from Algeria</p>
+<p align="left">My name is Bouhalla Abderrahim Mohamed but you can call me mohamed and I'm a Fullstack Dev, 21 YO and from Algeria</p>
 
 ###
 
